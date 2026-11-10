@@ -50,10 +50,10 @@ C 盘满了，大多数人会做三件事之一：装个"清理大师"、手动�
 
 ```bash
 # 个人级：所有项目都能用
-git clone https://github.com/<your-name>/c-drive-cleanup.git ~/.zcode/skills/c-drive-cleanup
+git clone https://github.com/Beership/c-drive-cleanup.git ~/.zcode/skills/c-drive-cleanup
 
 # 项目级：只在当前仓库可用
-git clone https://github.com/<your-name>/c-drive-cleanup.git .agents/skills/c-drive-cleanup
+git clone https://github.com/Beership/c-drive-cleanup.git .agents/skills/c-drive-cleanup
 ```
 
 **怎么用：** 装好之后直接用日常语言说需求，技能会自动触发：
